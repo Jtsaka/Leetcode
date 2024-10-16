@@ -1,1 +1,1 @@
-Read me pls
+leetcode is hard wtf
